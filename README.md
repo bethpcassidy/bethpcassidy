@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Name: `Beth Cassidy`
-Prounouns: `They/Them`
-Location: `Brooklyn, NYC`
+Name: Beth Cassidy
+Prounouns: They/Them
+Location: Brooklyn, NYC
 
 Works In:
 languages: `Ruby, JavaScript, HTML, CSS, SQL`
@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
