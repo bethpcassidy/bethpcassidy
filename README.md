@@ -1,6 +1,19 @@
 ### Hi there 👋
 
-hi
+Name: `Beth Cassidy`
+Prounouns: `They/Them`
+Location: `Brooklyn, NYC`
+
+Works In:
+languages: `Ruby, JavaScript, HTML, CSS, SQL`
+frameworks: `Ruby on Rails, React.js, Bootstrap`
+databases/libraries/tools: `Postgres, APIs, Node/npm, Git, GitHub`
+
+Loves:
+`Audio samples`
+`New Projects`
+`Learning`
+
 
 <!--
 **bethpcassidy/bethpcassidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
