@@ -1,4 +1,4 @@
-## ~ Hello ~
+## Welcome!
 
 ### Info:
 ```yaml
