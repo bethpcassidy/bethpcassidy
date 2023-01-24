@@ -7,7 +7,7 @@ prounouns: They/Them
 location: Brooklyn, NYC
 
 Works In..
-languages: Ruby, JavaScript, HTML, CSS, SQL
+languages: Ruby, JavaScript, HTML, CSS, SQL, C#
 frameworks: Ruby on Rails, React.js, Bootstrap
 databases/libraries/tools: Postgres, APIs, Node/npm, Git, GitHub
 
