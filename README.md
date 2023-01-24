@@ -13,16 +13,8 @@ languages: Ruby, JavaScript, HTML, CSS, SQL, C#
 frameworks: Ruby on Rails, React.js, Bootstrap
 databases/libraries/tools: Postgres, APIs, Node/npm, Git, GitHub
 ```
-### Loves:
-```yaml
-"Audio samples"
-"New Projects"
-"Cold Weather" 
-```
-   
-Let's Chat! bethcassdy@gmail.com
 
-
+#### Contact: bethcassdy@gmail.com
 
 
 
