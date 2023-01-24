@@ -1,19 +1,19 @@
-# Hi!
+## ~ Hello ~
 
-## Info:
+### Info:
 ```yaml
 name: Beth Cassidy
 prounouns: They/Them
 location: Brooklyn, NYC
 
 ```
-## Works In:
+### Works In:
 ```yaml
 languages: Ruby, JavaScript, HTML, CSS, SQL, C#
 frameworks: Ruby on Rails, React.js, Bootstrap
 databases/libraries/tools: Postgres, APIs, Node/npm, Git, GitHub
 ```
-## Loves:
+### Loves:
 ```yaml
 "Audio samples"
 "New Projects"
