@@ -1,7 +1,6 @@
 ### Hi there 👋
 ```yaml
 
-Info..
 name: Beth Cassidy
 prounouns: They/Them
 location: Brooklyn, NYC
