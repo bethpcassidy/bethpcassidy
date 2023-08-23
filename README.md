@@ -3,7 +3,7 @@
 ### Info:
 ```yaml
 name: Beth Cassidy
-prounouns: They/Them
+prounouns: She/Her
 location: Brooklyn, NYC
 
 ```
